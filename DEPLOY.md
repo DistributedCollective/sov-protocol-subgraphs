@@ -46,7 +46,7 @@ Ensure to fill in the necessary addresses and block numbers for each network. Th
 # copy env and adjust its content with your personal access token and subgraph name
 
 # you can get an access token from https://thegraph.com/explorer/dashboard
-cp .env.test .env
+cp .env.example .env
 
 # install project dependencies
 npm i
