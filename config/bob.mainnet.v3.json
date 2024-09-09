@@ -1,7 +1,7 @@
 {
-  "network": "bob-testnet",
+  "network": "bob",
   "node": {
-    "address":"https://RPC_ENDPOING",
+    "address":"",
     "log_level": "debug"
   },
   "PoolAddressesProviderRegistry": {
