@@ -1,5 +1,5 @@
 {
-  "name": "subgraph-template",
+  "name": "fork-aave-protocol-subgraphs",
   "version": "0.0.1",
   "scripts": {
     "create": "graph create DistributedCollective/subgraph-template --node https://api.thegraph.com/deploy/",
@@ -32,10 +32,11 @@
     "husky": "^7.0.4",
     "js-yaml": "^4.1.0",
     "mustache": "^4.2.0",
-    "nodemon": "^2.0.15",
+    "nodemon": "^3.1.4",
     "prettier": "^2.6.1"
   },
   "dependencies": {
+    "env-cmd": "^10.1.0",
     "esm": "^3.2.25",
     "js-yaml": "^4.1.0",
     "matchstick-as": "^0.3.0"
