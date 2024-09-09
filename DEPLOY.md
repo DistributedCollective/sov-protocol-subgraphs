@@ -42,6 +42,8 @@ It is also important to add the rpc to the config file.
 
 ## Development
 
+Before deploying it is crucial to be logged to thegraph.
+
 ```bash
 
 # copy env and adjust its content with your personal access token and subgraph name
