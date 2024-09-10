@@ -18,5 +18,5 @@ npm run codegen && npm run build;
 echo "File: ${green}subgraph.yaml${reset} has been mustached";
 npx npm run deploy;
 echo "File: ${green}src/config/contracts.ts${reset} has been mustached";
-npx mustache config/BOB.testnet.json docker-compose.template.yml > docker-compose.yml;
+npx mustache config/${NETWORK}.${VERSION}.json docker-compose.template.yml > docker-compose.yml;
 echo "File: ${green}docker-compose.yml${reset} has been mustached";
