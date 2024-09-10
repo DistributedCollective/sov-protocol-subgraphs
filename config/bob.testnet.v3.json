@@ -1,0 +1,19 @@
+{
+  "network": "bob-testnet",
+  "node": {
+    "address": "",
+    "log_level": "debug"
+  },
+  "PoolAddressesProviderRegistry": {
+    "address": "0x265082C8c7496a99d8cc1cF98C5E20A5Afe81c5C",
+    "startBlock": 1470112
+  },
+  "AaveOracle": {
+    "address": "0x72b138F9DFFe9a8565f3faBB18B67EcAAd423F3e",
+    "startBlock": 1470112
+  },
+  "RewardsController": {
+    "address": "0x9027F79025eF5D66f7c7514aa5bF29fA168227Ec",
+    "startBlock": 1470112
+  }
+}
