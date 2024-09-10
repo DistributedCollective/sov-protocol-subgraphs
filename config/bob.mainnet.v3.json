@@ -1,7 +1,7 @@
 {
   "network": "bob",
   "node": {
-    "address":"",
+    "address":"https://bob-rpc.sovryn.app",
     "log_level": "debug"
   },
   "PoolAddressesProviderRegistry": {

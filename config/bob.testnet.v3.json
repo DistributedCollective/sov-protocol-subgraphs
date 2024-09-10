@@ -1,7 +1,7 @@
 {
   "network": "bob-testnet",
   "node": {
-    "address": "",
+    "address": "https://bob-sepolia.rpc.gobob.xyz",
     "log_level": "debug"
   },
   "PoolAddressesProviderRegistry": {
