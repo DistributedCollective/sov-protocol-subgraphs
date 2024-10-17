@@ -1,19 +1,19 @@
 {
- "network": "bob-testnet",
- "node": {
-   "address": "https://bob-sepolia.rpc.gobob.xyz",
-   "log_level": "debug"
- },
- "PoolAddressesProviderRegistry": {
-   "address": "0xDc63Db3C07453F18c8dCFD98014f01bb8063Fb91",
-   "startBlock": 2766850
- },
- "AaveOracle": {
-   "address": "0x326d25210ddb67ae9AE063D662BF06Ec1beBE9E5",
-   "startBlock": 2766850
- },
- "RewardsController": {
-   "address": "0x99A8950570B65131e62A7D37958ce8e767045f2D",
-   "startBlock": 2766850
- }
+  "network": "bob-testnet",
+  "node": {
+    "address": "https://bob-sepolia.rpc.gobob.xyz",
+    "log_level": "debug"
+  },
+  "PoolAddressesProviderRegistry": {
+    "address": "0xf2EAdD2B240c0497debDD401Ea6e169D715cf46b",
+    "startBlock": 3108310
+  },
+  "AaveOracle": {
+    "address": "0x94172B8a7fa43803349cC7BDF143611066b8Ef9C",
+    "startBlock": 3108310
+  },
+  "RewardsController": {
+    "address": "0x959C3B5845A2D83217360505fBB3415cB6D92731",
+    "startBlock": 3108310
+  }
 }
